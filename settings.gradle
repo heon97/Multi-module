@@ -1,4 +1,4 @@
-rootProject.name = 'multi-module'
+rootProject.name = 'root'
 include 'client-module'
 include 'admin-module'
 include 'core-module'
